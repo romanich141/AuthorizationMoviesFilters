@@ -1,2 +1,0 @@
-# AuthorizationMoviesFilters
-Created with CodeSandbox
